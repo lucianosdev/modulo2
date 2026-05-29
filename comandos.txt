@@ -5,3 +5,9 @@ PWD - mostra o caminho real que você está
 MKDIR ‘nome da pasta’ - cria a pasta
 GIT INIT . - vira uma pasta especial para versionar ela. Torna ela 
 um repositório. 
+
+GIT ADD - Adiciona meus arquivos para commit no repo local.
+
+GIT COMMIT -m  - Faz um save das alterações nos arquivos do repo local
+
+GIT PUSH - Salva minhas alterações no repo remoto.  
