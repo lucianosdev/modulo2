@@ -8,6 +8,8 @@ um repositório.
 
 GIT ADD - Adiciona meus arquivos para commit no repo local.
 
-GIT COMMIT -m  - Faz um save das alterações nos arquivos do repo local
+GIT COMMIT -m  - Faz um save das alterações nos arquivos do repo local.
+
+GIT COMMIT -am  - Faz um save das alterações nos arquivos ja trackeds do repo local.
 
 GIT PUSH - Salva minhas alterações no repo remoto.  
