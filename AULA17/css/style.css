@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(45, 93, 125);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 32px;
+
+}
+
+.card{
+    background-color: white; /* Define a cor de fundo do elemento como branco */
+    width: 500px; /* Define a largura fixa do elemento em 500 pixels */
+    height: auto; /* A altura será ajustada automaticamente de acordo com o conteúdo */
+    margin: 50px auto; /* espacamento externo,
+    Adiciona 50px de margem em cima e embaixo, e centraliza horizontalmente*/
+    padding: 30px; /* espacamento interno da caixa ou div, 
+    Cria um espaçamento interno de 30px entre o conteúdo e as bordas */
+    border: 2px solid black; /* Definindo uma borda */
+}
+
+.card h1{
+    color: black;
+}
+
+h2{
+    color: aquamarine;
+}
+
+#texto{
+    font-size: 10px;
+}
+
+#texto2{
+    color: blue;
+}
