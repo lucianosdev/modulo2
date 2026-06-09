@@ -15,7 +15,7 @@ h1{
 
 }
 
-.card{
+.card{ /* para class usa o . */
     background-color: white; /* Define a cor de fundo do elemento como branco */
     width: 500px; /* Define a largura fixa do elemento em 500 pixels */
     height: auto; /* A altura será ajustada automaticamente de acordo com o conteúdo */
@@ -34,7 +34,7 @@ h2{
     color: aquamarine;
 }
 
-#texto{
+#texto{ /* para o id usa o # */
     font-size: 10px;
 }
 

@@ -1,0 +1,19 @@
+.caixa{
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 10px;
+
+}
+
+.container{
+    display: flex; /* transforma em caixa, container flexivel para ajustar os itens*/
+    /*flex-direction: column-reverse;
+    flex-direction: row-reverse;*/
+    flex-direction: row;
+    background-color: bisque;
+    height: 400px;
+    justify-content: center; /*mesmo espacamento entre borda e elementos*/ 
+    align-items: center; /* deixa tudo centralizado */
+    gap: 20px; /*somente espaço entre itens*/
+    flex-wrap: wrap; /*quebra a linha deixando elementos flexiveis, serve quando tenho muitas caixas*/
+}
