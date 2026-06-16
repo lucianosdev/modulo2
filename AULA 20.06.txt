@@ -1,0 +1,8 @@
+Busca pelo SEO
+Acessibilidade
+Organização para isso usamos header, main e footer nas páginas!!
+
+*{ margin:0; padding:0; } reset do CSS para controle dos espaçamentos!
+
+Seguimos nessa aula, finalizando a 1ª pagina html, css com flexbox!
+

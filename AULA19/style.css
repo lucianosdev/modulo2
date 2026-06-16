@@ -71,3 +71,25 @@ body{
    background-color: #227ec9;
    transform: scale(1.05);
 }
+
+.rodape{
+   background-color: #222;
+   color: rgb(209, 216, 223);
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px;
+}
+
+.rodape p{
+   font-size: 15px;
+}
+
+.redes-sociais{
+   display: flex;
+   gap: 15px;
+}
+
+.redes-sociais img{
+   width: 25px;
+}
