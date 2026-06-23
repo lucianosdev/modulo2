@@ -1,0 +1,8 @@
+Dom - Modelo de objeto de documentos
+Representa a pagina html no formato objeto!
+pra estilizar...e mudar estrutura
+
+Transforma html em etrutura de arvores!
+
+
+
