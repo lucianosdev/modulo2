@@ -1,0 +1,10 @@
+Componentização, pra que?
+
+O jeito antigo é mais fácil no começo... mas quanto 
+mais o projeto cresce, mais difícil fica de manter. 
+Por isso, a gente precisa componentizar pra reutilizar nosso código!
+
+-> web components.
+
+
+
