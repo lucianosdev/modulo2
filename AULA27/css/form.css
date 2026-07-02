@@ -38,3 +38,9 @@
     padding: 12px;
     border-radius: 4px;
 }
+
+.formulario .msg{
+    color: rgb(203, 17, 17);
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
